@@ -76,7 +76,7 @@
 
 ## Ура, я выиграл! Когда и каким образом я получу свою игру? И что делать, если гифт все ещё не пришел?
 
-Если вы выиграли гифт, то он автоматически отправится на Вашу электронную почту (которую Вы указали при регистрации). Если Вы выиграли ключ, то он мгновенно появится у Вас в личных сообщениях на сайте. В течении 24 часов вам необходимо подтвердить работоспособность ключ нажатием одной из двух кнопок на странице раздачи ("Ключ рабочий" и "Ключ е рабочий"). Если вы этого сделать не успеете ключ автоматически помечается как рабочий.  
+Если вы выиграли гифт, то он автоматически отправится на Вашу электронную почту (которую Вы указали при регистрации). Если Вы выиграли ключ, то он мгновенно появится у Вас в личных сообщениях на сайте. В течении 24 часов вам необходимо подтвердить работоспособность ключ нажатием одной из двух кнопок на странице раздачи ("Ключ рабочий" и "Ключ не рабочий"). Если вы этого сделать не успеете ключ автоматически помечается как рабочий.  
 Если вы выиграли раздачу, а E-mail все ещё не получили, то это значит, что сервера Steam загружены. Попробуйте поменять в профиле Ваш E-mail адрес и на странице раздачи нажать кнопку: «Отправить повторно».
 Если вам вместо ключа пришла ссылка на Humble Bundle - не спешите отмечать ключ нерабочим. С недавнего времени бандлы на Humble продаются только с прямой активацией, то есть без ключей. [Подробная инструкция по активации игры через Humble Bundle от Selexanus](http://gameminer.ru/forum/1/23348)
 
@@ -107,7 +107,7 @@
 
 ## Кто является модератором на сайте?
 
-Модераторами сайта в данный момент являются: [Anthony](http://gameminer.ru/profile/Anthony), [Diodorus](http://gameminer.ru/profile/Diodorus), [Haoose](http://gameminer.ru/profile/Haoose), [LordConqueror](http://gameminer.ru/profile/LordConqueror), [sputNIK37](http://gameminer.ru/profile/sputNIK37), [SqweeZy](http://gameminer.ru/profile/SqweeZy), [yurijpol](http://gameminer.ru/profile/yurijpol)  
+Модераторами сайта в данный момент являются: [Anthony](http://gameminer.ru/profile/Anthony), [Diodorus](http://gameminer.ru/profile/Diodorus), [Vitya1600](http://gameminer.ru/profile/vitya1600), [LordConqueror](http://gameminer.ru/profile/LordConqueror), [sputNIK37](http://gameminer.ru/profile/sputNIK37), [SqweeZy](http://gameminer.ru/profile/SqweeZy), [yurijpol](http://gameminer.ru/profile/yurijpol), [C0mar](http://gameminer.ru/profile/c0mar)
 Англоязычные модераторы: [devil](http://gameminer.ru/profile/devil), [Siatverbal](http://gameminer.ru/profile/Siatverbal)
 К ним можно обращаться по разным проблемам.
 
